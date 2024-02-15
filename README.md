@@ -1,6 +1,8 @@
 # 2022_2_young_devs
 Математическая онлайн-игра с элементами соцсети. Семестровый проект в Технопарке
 
+[Защита проектов](https://drive.google.com/file/d/1gVn4XFj0HwqLfW8PY0z5TQ69S3H-yrCi/view?usp=sharing)
+
 ## Описание
 <вставьте описание>
 
